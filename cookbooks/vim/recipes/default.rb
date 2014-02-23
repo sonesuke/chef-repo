@@ -7,6 +7,6 @@
 # All rights reserved - Do Not Redistribute
 #
 
-package 'vim' do
+package 'vim-nox' do
     action :install
 end
